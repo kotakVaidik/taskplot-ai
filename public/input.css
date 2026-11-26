@@ -1,8 +1,3 @@
-/* ═══════════════════════════════════════════════════════
-   TASKPILOT AI — Premium Design System
-   Tailwind CSS v4
-   ═══════════════════════════════════════════════════════ */
-
 @import "tailwindcss";
 @source "../index.html";
 @source "../script.js";
@@ -58,7 +53,7 @@
     overflow-x: hidden;
   }
 
-  /* Animated Aurora Background */
+  /* Animated  Background */
   body::before {
     content: '';
     position: fixed;
